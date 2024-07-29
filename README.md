@@ -1,8 +1,24 @@
-# bhagavat_gita
+# 🌍📙 bhagavat_gita 📙🌍
 
 A new Flutter project.
 
-## Getting Started
+👉 Theme Options:
+
+* Provide different themes (light mode, dark mode, sepia tone) to suit users' preferences and improve readability.
+
+* Customization: Allow users to adjust font sizes and styles for comfortable reading.
+
+👉 Multilingual Support:
+
+* Translation Options: Provide translations of the Bhagavad Gita's verses (shlokas) in multiple languages such as English, Hindi, Spanish, etc.
+
+* Language Selection: Allow users to choose their preferred language for reading the verses and related content.
+
+👉 Chapter and Verse Navigation:
+
+* Chapter Selection: Enable users to easily navigate between the 18 chapters (addhiyay) of the Bhagavad Gita.
+
+* Verse Display: Display individual verses (shloks) within each chapter with their translations and commentaries.
 
 <p>
    <img src="https://github.com/user-attachments/assets/7537d4d2-1994-41b8-b8d8-b5bec4cd4bee"height=28% width=32%>
