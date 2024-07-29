@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+📙 Welcome to GitaVerse: Your Spiritual Companion
+
+* Step into the world of timeless wisdom and spiritual guidance with GitaVerse, your ultimate Bhagavad Gita companion. Whether you're a devout seeker of truth or a curious explorer of ancient wisdom, GitaVerse is here to illuminate your journey.
+
 👉 Theme Options:
 
 * Provide different themes (light mode, dark mode, sepia tone) to suit users' preferences and improve readability.
